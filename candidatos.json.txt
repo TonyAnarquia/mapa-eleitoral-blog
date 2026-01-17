@@ -1,0 +1,24 @@
+{
+  "AC": [
+    {
+      "nome": "João Silva",
+      "partido": "Partido X",
+      "instagram": "https://instagram.com/joaosilva",
+      "facebook": "https://facebook.com/joaosilva"
+    },
+    {
+      "nome": "Maria Souza",
+      "partido": "Partido Y",
+      "instagram": "https://instagram.com/mariasouza",
+      "facebook": ""
+    }
+  ],
+  "SP": [
+    {
+      "nome": "Carlos Adão",
+      "partido": "Partido Z",
+      "instagram": "https://instagram.com/carlosadao",
+      "facebook": "https://facebook.com/carlosadao"
+    }
+  ]
+}

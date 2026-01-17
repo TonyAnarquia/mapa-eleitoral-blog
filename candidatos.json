@@ -1,22 +1,16 @@
 {
   "SP": {
     "governador": [
-      { "nome": "Candidato A", "partido": "PL", "instagram": "link" }
+      { "nome": "Candidato A", "partido": "MISSÃO", "instagram": "link" }
     ],
     "senador": [
-      { "nome": "Candidato B", "partido": "PT", "instagram": "link" }
+      { "nome": "Candidato B", "partido": "MISSÃO", "instagram": "link" }
     ],
     "federal": [
-      { "nome": "Candidato C", "partido": "MDB", "instagram": "link" }
+      { "nome": "Candidato C", "partido": "MISSÃO", "instagram": "link" }
     ],
     "estadual": [
-      { "nome": "Candidato D", "partido": "PSD", "instagram": "link" }
+      { "nome": "Candidato D", "partido": "MISSÃO", "instagram": "link" }
     ]
   },
-  "RJ": {
-     "governador": [...],
-     "senador": [...],
-     "federal": [...],
-     "estadual": [...]
-  }
 }

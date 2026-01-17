@@ -1,16 +1,11 @@
 {
+  "GLOBAL": {
+    "presidente": { "nome": "Nome do Presidente", "partido": "MISSÃO", "instagram": "link" }
+  },
   "SP": {
-    "governador": [
-      { "nome": "Candidato A", "partido": "MISSÃO", "instagram": "link" }
-    ],
-    "senador": [
-      { "nome": "Candidato B", "partido": "MISSÃO", "instagram": "link" }
-    ],
-    "federal": [
-      { "nome": "Candidato C", "partido": "MISSÃO", "instagram": "link" }
-    ],
-    "estadual": [
-      { "nome": "Candidato D", "partido": "MISSÃO", "instagram": "link" }
-    ]
+    "governador": { "nome": "Candidato SP", "partido": "MISSÃO", "instagram": "link" },
+    "senadores": [...],
+    "federais": [...],
+    "estaduais": [...]
   }
 }

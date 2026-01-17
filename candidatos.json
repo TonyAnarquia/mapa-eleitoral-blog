@@ -1,24 +1,36 @@
 {
-  "AC": [
+  "NACIONAL": [
     {
-      "nome": "João Silva",
+      "nome": "Nome do Presidente",
       "partido": "Partido X",
-      "instagram": "https://instagram.com/joaosilva",
-      "facebook": "https://facebook.com/joaosilva"
-    },
-    {
-      "nome": "Maria Souza",
-      "partido": "Partido Y",
-      "instagram": "https://instagram.com/mariasouza",
-      "facebook": ""
+      "cargo": "presidencia",
+      "foto": "URL_DA_FOTO",
+      "instagram": "LINK"
     }
   ],
   "SP": [
     {
-      "nome": "Carlos Adão",
+      "nome": "Candidato a Governador SP",
+      "partido": "Partido Y",
+      "cargo": "governador",
+      "foto": "URL_DA_FOTO",
+      "instagram": "LINK"
+    },
+    {
+      "nome": "Candidato a Senador SP",
       "partido": "Partido Z",
-      "instagram": "https://instagram.com/carlosadao",
-      "facebook": "https://facebook.com/carlosadao"
+      "cargo": "senador",
+      "foto": "URL_DA_FOTO",
+      "instagram": "LINK"
+    },
+    {
+      "nome": "Deputado Federal SP",
+      "partido": "Partido W",
+      "cargo": "federal",
+      "foto": "URL_DA_FOTO",
+      "instagram": "LINK"
     }
+  ],
+  "RJ": [
   ]
 }

@@ -4,8 +4,8 @@
   },
   "SP": {
     "governador": { "nome": "Candidato SP", "partido": "MISSÃO", "instagram": "link" },
-    "senadores": [...],
-    "federais": [...],
-    "estaduais": [...]
+    "senadores": [],
+    "federais": [],
+    "estaduais": []
   }
 }
